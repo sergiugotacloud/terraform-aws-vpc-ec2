@@ -78,7 +78,7 @@ A second private subnet is also created to demonstrate how production architectu
 
 The architecture diagram illustrates the network structure created with Terraform.
 
-![Architecture](architecture/terraform-vpc-ec2-architecture.png)
+![Architecture](architecture/00-terraform-vpc-ec2-architecture.png)
 
 Components
 
@@ -271,8 +271,7 @@ Terraform provides a clear workflow for infrastructure lifecycle management.
 
 Sergiu Gota
 
-AWS Certified Solutions Architect – Associate
-AWS Certified Cloud Practitioner
+AWS Cloud Engineer
 
 GitHub
 https://github.com/sergiugotacloud
