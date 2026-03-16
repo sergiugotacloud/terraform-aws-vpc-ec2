@@ -192,31 +192,31 @@ A t3.micro EC2 instance deployed in the public subnet.
 
 # 9. Screenshots (Deployment Proof)
 
-Terraform initialization
+# Terraform initialization
 
 ![Terraform Init](screenshots/01-terraform-init.png)
 
-Terraform plan preview
+# Terraform plan preview
 
 ![Terraform Plan](screenshots/02-terraform-plan-preview.png)
 
-Terraform plan summary
+# Terraform plan summary
 
 ![Terraform Plan Summary](screenshots/03-terraform-plan-summary.png)
 
-Terraform apply success
+# Terraform apply success
 
 ![Terraform Apply](screenshots/04-terraform-apply-success.png)
 
-EC2 instance running
+# EC2 instance running
 
 ![EC2 Running](screenshots/05-ec2-instance-running.png)
 
-VPC resource map
+# VPC resource map
 
 ![VPC Resource Map](screenshots/06-vpc-resource-map.png)
 
-Terraform destroy completed
+# Terraform destroy completed
 
 ![Terraform Destroy](screenshots/07-terraform-destroy-success.png)
 
