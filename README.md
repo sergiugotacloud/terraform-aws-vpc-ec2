@@ -1,4 +1,4 @@
-# Terraform Project — AWS VPC with Public & Private Subnets and EC2 Deployment
+# Terraform Project: AWS VPC with Public & Private Subnets and EC2 Deployment
 
 This project demonstrates how to provision a complete AWS networking environment using Terraform. The infrastructure includes a VPC, public and private subnets, an Internet Gateway, route tables, security groups, and an EC2 instance deployed inside the public subnet.
 
